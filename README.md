@@ -1,4 +1,4 @@
-# ⚡ Welcome to the Deep Learning Repository! ⚡
+# <p align="center">⚡ Welcome to the Deep Learning Repository! ⚡</p>
 Your ultimate resource for mastering Deep Learning. This repository provides a curated selection of foundational knowledge, practical tutorials, and hands-on projects to elevate your deep learning expertise and fast-track your career in AI.
 
 
